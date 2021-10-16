@@ -4,7 +4,6 @@
 	<a href="https://github.com/I2rys/EXKill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/EXKill?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/EXKill"><img src="https://bettercodehub.com/edge/badge/I2rys/EXKill?branch=main"></a>
 	<a href="https://github.com/I2rys/EXKill/issues"><img src="https://img.shields.io/github/issues/I2rys/EXKill.svg"></img></a>
-	<a href="https://github.com/I2rys/EXKill"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
 
